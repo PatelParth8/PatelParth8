@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;" align="center"> Hi 👋, I'm Parth Patel</h1>
+<h1 style="color: #44AEFB;" align="center"> Hello, I'm Parth Patel</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <h2 align="center">A Passionate Full Stack Website and Application Developer From India.</h2><br><br>
