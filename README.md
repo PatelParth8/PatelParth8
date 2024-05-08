@@ -4,7 +4,7 @@
     <h2 align="center">A Passionate Full Stack Website and Application Developer From India.</h2><br><br>
     - 🔭 I’m currently working on <b></b>TSUB</b><br><br>
     - 🌱 I’m currently learning Flutter and Firebase<br><br>
-    - 📫 How to reach me Mail :<a href="mailto:parthpatel.imscit20@gmail.com"> 📧 </a><br><br><br>
+<!--     - 📫 How to reach me Mail :<a href="mailto:parthpatel.imscit20@gmail.com"> 📧 </a><br><br><br> -->
     
 
 
